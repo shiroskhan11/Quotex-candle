@@ -866,3 +866,10 @@ To https://github.com/shiroskhan11/Quotex-candle.git
    e981d7f..6ab0212  main -> main
 [main 0fd41f2] Auto update at 2025-07-29 03:30:59
  6 files changed, 14 insertions(+), 5 deletions(-)
+[main 0cb4254] Auto update at 2025-07-29 03:31:00
+ 6 files changed, 12 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6ab0212..0fd41f2  main -> main
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 0cb4254e26673ad74e65a0bc0cbf15ee0074e5ea but expected 6ab02120ec3e5e1066fbce0d05921caed3800341)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
