@@ -37,3 +37,7 @@ To https://github.com/shiroskhan11/Quotex-candle.git
  create mode 100644 sniper_bot.py
 To https://github.com/shiroskhan11/Quotex-candle.git
    79c32ef..0e0b46e  main -> main
+[main 2cc3adf] Auto update at 2025-07-29 00:13:00
+ 6 files changed, 15 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0e0b46e..2cc3adf  main -> main
