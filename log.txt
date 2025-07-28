@@ -672,3 +672,17 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 4289087] Auto update at 2025-07-29 02:51:01
+ 6 files changed, 33 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 4289087725085a3af2cae04cef896ef8dbd37491 but expected 652d502c881ab39985176d1e1bd271a9f16bc1c8)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+To https://github.com/shiroskhan11/Quotex-candle.git
+   652d502..4289087  main -> main
