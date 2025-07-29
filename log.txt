@@ -1,0 +1,2402 @@
+[main 3b9fd03] Auto update at 2025-07-29 00:04:00
+ 7 files changed, 10 insertions(+), 5 deletions(-)
+ create mode 100644 log.txt
+ create mode 100644 main
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b45ef8a..3b9fd03  main -> main
+[main 1b4ca94] Auto update at 2025-07-29 00:05:00
+ 6 files changed, 16 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3b9fd03..1b4ca94  main -> main
+[main e174e15] Auto update at 2025-07-29 00:06:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1b4ca94..e174e15  main -> main
+[main 93ea7ed] Auto update at 2025-07-29 00:07:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e174e15..93ea7ed  main -> main
+[main 6f5cf29] Auto update at 2025-07-29 00:08:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   93ea7ed..6f5cf29  main -> main
+[main c074943] Auto update at 2025-07-29 00:09:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6f5cf29..c074943  main -> main
+[main 6631600] Auto update at 2025-07-29 00:10:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c074943..6631600  main -> main
+[main 79c32ef] Auto update at 2025-07-29 00:11:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6631600..79c32ef  main -> main
+[main 0e0b46e] Auto update at 2025-07-29 00:12:00
+ 7 files changed, 67 insertions(+), 5 deletions(-)
+ create mode 100644 sniper_bot.py
+To https://github.com/shiroskhan11/Quotex-candle.git
+   79c32ef..0e0b46e  main -> main
+[main 2cc3adf] Auto update at 2025-07-29 00:13:00
+ 6 files changed, 15 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0e0b46e..2cc3adf  main -> main
+[main acfe4fa] Auto update at 2025-07-29 00:14:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2cc3adf..acfe4fa  main -> main
+[main 58b0c32] Auto update at 2025-07-29 00:15:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   acfe4fa..58b0c32  main -> main
+[main f5816ff] Auto update at 2025-07-29 00:16:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   58b0c32..f5816ff  main -> main
+[main f355a46] Auto update at 2025-07-29 00:17:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f5816ff..f355a46  main -> main
+[main 976f65f] Auto update at 2025-07-29 00:18:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f355a46..976f65f  main -> main
+[main 9b68b81] Auto update at 2025-07-29 00:19:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   976f65f..9b68b81  main -> main
+[main 3bc00b2] Auto update at 2025-07-29 00:20:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9b68b81..3bc00b2  main -> main
+[main 4c7bdf0] Auto update at 2025-07-29 00:21:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3bc00b2..4c7bdf0  main -> main
+[main 18fe129] Auto update at 2025-07-29 00:22:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4c7bdf0..18fe129  main -> main
+[main 7c67df9] Auto update at 2025-07-29 00:23:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   18fe129..7c67df9  main -> main
+[main 6688f30] Auto update at 2025-07-29 00:24:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7c67df9..6688f30  main -> main
+[main e45944a] Auto update at 2025-07-29 00:25:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6688f30..e45944a  main -> main
+[main e3b375f] Auto update at 2025-07-29 00:26:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e45944a..e3b375f  main -> main
+[main c79ddb5] Auto update at 2025-07-29 00:27:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e3b375f..c79ddb5  main -> main
+[main 86d92b8] Auto update at 2025-07-29 00:28:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c79ddb5..86d92b8  main -> main
+[main 502abcd] Auto update at 2025-07-29 00:29:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   86d92b8..502abcd  main -> main
+[main 62c7632] Auto update at 2025-07-29 00:30:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   502abcd..62c7632  main -> main
+[main 32fb1be] Auto update at 2025-07-29 00:31:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   62c7632..32fb1be  main -> main
+[main 08bfcc1] Auto update at 2025-07-29 00:32:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   32fb1be..08bfcc1  main -> main
+[main b4c460f] Auto update at 2025-07-29 00:33:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   08bfcc1..b4c460f  main -> main
+[main a238bd1] Auto update at 2025-07-29 00:34:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b4c460f..a238bd1  main -> main
+[main 1b604fa] Auto update at 2025-07-29 00:35:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a238bd1..1b604fa  main -> main
+[main 331cddb] Auto update at 2025-07-29 00:36:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1b604fa..331cddb  main -> main
+[main 90e3c0e] Auto update at 2025-07-29 00:37:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   331cddb..90e3c0e  main -> main
+[main c5d9be5] Auto update at 2025-07-29 00:38:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   90e3c0e..c5d9be5  main -> main
+[main 74dded6] Auto update at 2025-07-29 00:39:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c5d9be5..74dded6  main -> main
+[main ae954de] Auto update at 2025-07-29 00:40:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   74dded6..ae954de  main -> main
+[main 1c58c8c] Auto update at 2025-07-29 00:41:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ae954de..1c58c8c  main -> main
+[main 7538785] Auto update at 2025-07-29 00:42:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1c58c8c..7538785  main -> main
+[main ed81a96] Auto update at 2025-07-29 00:43:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7538785..ed81a96  main -> main
+[main 9c0f72f] Auto update at 2025-07-29 00:44:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ed81a96..9c0f72f  main -> main
+[main f8f8fd4] Auto update at 2025-07-29 00:45:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9c0f72f..f8f8fd4  main -> main
+[main f53b021] Auto update at 2025-07-29 00:46:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f8f8fd4..f53b021  main -> main
+[main c2c593a] Auto update at 2025-07-29 00:47:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f53b021..c2c593a  main -> main
+[main c670432] Auto update at 2025-07-29 00:48:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c2c593a..c670432  main -> main
+[main 030026e] Auto update at 2025-07-29 00:49:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c670432..030026e  main -> main
+[main 0c4bf7f] Auto update at 2025-07-29 00:50:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   030026e..0c4bf7f  main -> main
+[main 4b6c43b] Auto update at 2025-07-29 00:51:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0c4bf7f..4b6c43b  main -> main
+[main a127852] Auto update at 2025-07-29 00:52:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4b6c43b..a127852  main -> main
+[main 24844b6] Auto update at 2025-07-29 00:53:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a127852..24844b6  main -> main
+[main b825666] Auto update at 2025-07-29 00:54:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   24844b6..b825666  main -> main
+[main e1e5cb4] Auto update at 2025-07-29 00:55:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b825666..e1e5cb4  main -> main
+[main 7d77295] Auto update at 2025-07-29 00:56:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e1e5cb4..7d77295  main -> main
+[main 2326e9e] Auto update at 2025-07-29 00:57:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7d77295..2326e9e  main -> main
+[main 114cd75] Auto update at 2025-07-29 00:58:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2326e9e..114cd75  main -> main
+[main 30f8eac] Auto update at 2025-07-29 00:59:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   114cd75..30f8eac  main -> main
+[main 5149773] Auto update at 2025-07-29 01:00:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   30f8eac..5149773  main -> main
+[main 972c45f] Auto update at 2025-07-29 01:01:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5149773..972c45f  main -> main
+[main c3b6e36] Auto update at 2025-07-29 01:02:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   972c45f..c3b6e36  main -> main
+[main bc7e171] Auto update at 2025-07-29 01:03:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c3b6e36..bc7e171  main -> main
+[main b4b2503] Auto update at 2025-07-29 01:04:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   bc7e171..b4b2503  main -> main
+[main 1a8e763] Auto update at 2025-07-29 01:05:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b4b2503..1a8e763  main -> main
+[main 8aeebc3] Auto update at 2025-07-29 01:06:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1a8e763..8aeebc3  main -> main
+[main e541270] Auto update at 2025-07-29 01:07:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8aeebc3..e541270  main -> main
+[main 3f905bb] Auto update at 2025-07-29 01:08:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e541270..3f905bb  main -> main
+[main b5bc109] Auto update at 2025-07-29 01:09:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3f905bb..b5bc109  main -> main
+[main 9eecbfb] Auto update at 2025-07-29 01:10:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b5bc109..9eecbfb  main -> main
+[main 2bc3dc4] Auto update at 2025-07-29 01:11:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9eecbfb..2bc3dc4  main -> main
+[main d2e3ee3] Auto update at 2025-07-29 01:12:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2bc3dc4..d2e3ee3  main -> main
+[main da84b7a] Auto update at 2025-07-29 01:13:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d2e3ee3..da84b7a  main -> main
+[main b54232a] Auto update at 2025-07-29 01:14:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   da84b7a..b54232a  main -> main
+[main 7211164] Auto update at 2025-07-29 01:15:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b54232a..7211164  main -> main
+[main 8d8116a] Auto update at 2025-07-29 01:16:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7211164..8d8116a  main -> main
+[main 0421866] Auto update at 2025-07-29 01:17:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8d8116a..0421866  main -> main
+[main 2ef0ce1] Auto update at 2025-07-29 01:18:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0421866..2ef0ce1  main -> main
+[main f04a970] Auto update at 2025-07-29 01:19:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2ef0ce1..f04a970  main -> main
+[main b628899] Auto update at 2025-07-29 01:20:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f04a970..b628899  main -> main
+[main 0cbd0fd] Auto update at 2025-07-29 01:21:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b628899..0cbd0fd  main -> main
+[main 3783c03] Auto update at 2025-07-29 01:22:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0cbd0fd..3783c03  main -> main
+[main c25ab71] Auto update at 2025-07-29 01:23:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3783c03..c25ab71  main -> main
+[main 986ff60] Auto update at 2025-07-29 01:24:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c25ab71..986ff60  main -> main
+[main 0f145c8] Auto update at 2025-07-29 01:25:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   986ff60..0f145c8  main -> main
+[main 1e9b5cc] Auto update at 2025-07-29 01:26:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0f145c8..1e9b5cc  main -> main
+[main 9ab0633] Auto update at 2025-07-29 01:27:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1e9b5cc..9ab0633  main -> main
+[main f689a32] Auto update at 2025-07-29 01:28:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9ab0633..f689a32  main -> main
+[main 72d670a] Auto update at 2025-07-29 01:29:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f689a32..72d670a  main -> main
+[main 4904a22] Auto update at 2025-07-29 01:30:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   72d670a..4904a22  main -> main
+[main 116a6df] Auto update at 2025-07-29 01:31:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4904a22..116a6df  main -> main
+[main 1fbed65] Auto update at 2025-07-29 01:32:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   116a6df..1fbed65  main -> main
+[main f2e780b] Auto update at 2025-07-29 01:33:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1fbed65..f2e780b  main -> main
+[main 2373d47] Auto update at 2025-07-29 01:34:00
+ 5 files changed, 10 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   dcbc1ad..2373d47  main -> main
+[main c821727] Auto update at 2025-07-29 01:35:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2373d47..c821727  main -> main
+[main fbd35d7] Auto update at 2025-07-29 01:36:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c821727..fbd35d7  main -> main
+[main f7d0852] Auto update at 2025-07-29 01:37:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fbd35d7..f7d0852  main -> main
+[main 7dc480a] Auto update at 2025-07-29 01:38:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f7d0852..7dc480a  main -> main
+[main d5622c1] Auto update at 2025-07-29 01:39:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7dc480a..d5622c1  main -> main
+[main 0d87f1c] Auto update at 2025-07-29 01:40:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d5622c1..0d87f1c  main -> main
+[main 993ce8f] Auto update at 2025-07-29 01:41:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0d87f1c..993ce8f  main -> main
+[main 76b8bd6] Auto update at 2025-07-29 01:42:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   993ce8f..76b8bd6  main -> main
+[main f98923e] Auto update at 2025-07-29 01:43:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   76b8bd6..f98923e  main -> main
+[main 918cd6d] Auto update at 2025-07-29 01:44:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f98923e..918cd6d  main -> main
+[main feb1d01] Auto update at 2025-07-29 01:45:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   918cd6d..feb1d01  main -> main
+[main dfe6ec3] Auto update at 2025-07-29 01:46:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   feb1d01..dfe6ec3  main -> main
+[main f8f587a] Auto update at 2025-07-29 01:47:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   dfe6ec3..f8f587a  main -> main
+[main 2186e24] Auto update at 2025-07-29 01:48:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f8f587a..2186e24  main -> main
+[main 624f471] Auto update at 2025-07-29 01:49:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2186e24..624f471  main -> main
+[main d78198d] Auto update at 2025-07-29 01:50:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   624f471..d78198d  main -> main
+[main a45508c] Auto update at 2025-07-29 01:51:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d78198d..a45508c  main -> main
+[main da0dad5] Auto update at 2025-07-29 01:52:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a45508c..da0dad5  main -> main
+[main a150743] Auto update at 2025-07-29 01:53:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   da0dad5..a150743  main -> main
+[main 567e794] Auto update at 2025-07-29 01:54:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a150743..567e794  main -> main
+[main 67a6ada] Auto update at 2025-07-29 01:55:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   567e794..67a6ada  main -> main
+[main 75d621f] Auto update at 2025-07-29 01:56:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   67a6ada..75d621f  main -> main
+[main 1b9de21] Auto update at 2025-07-29 01:57:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   75d621f..1b9de21  main -> main
+[main 1b7f8fa] Auto update at 2025-07-29 01:58:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1b9de21..1b7f8fa  main -> main
+[main b821076] Auto update at 2025-07-29 01:59:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1b7f8fa..b821076  main -> main
+[main bf560cb] Auto update at 2025-07-29 02:00:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b821076..bf560cb  main -> main
+[main 93aaa7a] Auto update at 2025-07-29 02:01:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   bf560cb..93aaa7a  main -> main
+[main b4e4e28] Auto update at 2025-07-29 02:02:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   93aaa7a..b4e4e28  main -> main
+[main 09608ab] Auto update at 2025-07-29 02:03:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b4e4e28..09608ab  main -> main
+[main 0f3ffd1] Auto update at 2025-07-29 02:04:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   09608ab..0f3ffd1  main -> main
+[main 0d0eac6] Auto update at 2025-07-29 02:05:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0f3ffd1..0d0eac6  main -> main
+[main 90ec9cc] Auto update at 2025-07-29 02:06:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0d0eac6..90ec9cc  main -> main
+[main 8840aa9] Auto update at 2025-07-29 02:07:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   90ec9cc..8840aa9  main -> main
+[main 87a7c3c] Auto update at 2025-07-29 02:08:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8840aa9..87a7c3c  main -> main
+[main 5502440] Auto update at 2025-07-29 02:09:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   87a7c3c..5502440  main -> main
+[main a9ff98c] Auto update at 2025-07-29 02:10:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5502440..a9ff98c  main -> main
+[main d388426] Auto update at 2025-07-29 02:11:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a9ff98c..d388426  main -> main
+[main 027bc17] Auto update at 2025-07-29 02:12:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d388426..027bc17  main -> main
+[main e152380] Auto update at 2025-07-29 02:13:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   027bc17..e152380  main -> main
+[main a064c6b] Auto update at 2025-07-29 02:14:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e152380..a064c6b  main -> main
+[main 1adf4b4] Auto update at 2025-07-29 02:15:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a064c6b..1adf4b4  main -> main
+[main a92061e] Auto update at 2025-07-29 02:16:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1adf4b4..a92061e  main -> main
+[main ee75963] Auto update at 2025-07-29 02:17:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a92061e..ee75963  main -> main
+[main 4789f37] Auto update at 2025-07-29 02:18:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ee75963..4789f37  main -> main
+[main e56fbbd] Auto update at 2025-07-29 02:19:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4789f37..e56fbbd  main -> main
+[main f04dcbb] Auto update at 2025-07-29 02:20:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e56fbbd..f04dcbb  main -> main
+[main ea77b2d] Auto update at 2025-07-29 02:21:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f04dcbb..ea77b2d  main -> main
+[main 6083a29] Auto update at 2025-07-29 02:22:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ea77b2d..6083a29  main -> main
+[main 4b4bb14] Auto update at 2025-07-29 02:23:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6083a29..4b4bb14  main -> main
+[main 361b068] Auto update at 2025-07-29 02:24:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4b4bb14..361b068  main -> main
+[main 7de3c8b] Auto update at 2025-07-29 02:25:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   361b068..7de3c8b  main -> main
+[main 7bd74b1] Auto update at 2025-07-29 02:26:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7de3c8b..7bd74b1  main -> main
+[main b4f35e7] Auto update at 2025-07-29 02:27:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7bd74b1..b4f35e7  main -> main
+[main 8e39b5c] Auto update at 2025-07-29 02:28:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b4f35e7..8e39b5c  main -> main
+[main a8b296d] Auto update at 2025-07-29 02:29:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8e39b5c..a8b296d  main -> main
+[main 69c0a27] Auto update at 2025-07-29 02:30:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a8b296d..69c0a27  main -> main
+[main 363d28f] Auto update at 2025-07-29 02:31:34
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   69c0a27..363d28f  main -> main
+[main 367f8e7] Auto update at 2025-07-29 02:32:37
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   363d28f..367f8e7  main -> main
+[main f9ad65b] Auto update at 2025-07-29 02:33:36
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   367f8e7..f9ad65b  main -> main
+[main b9d1c6d] Auto update at 2025-07-29 02:35:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f9ad65b..b9d1c6d  main -> main
+[main c52b4ae] Auto update at 2025-07-29 02:35:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b9d1c6d..c52b4ae  main -> main
+[main e4d6037] Auto update at 2025-07-29 02:38:12
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c52b4ae..e4d6037  main -> main
+[main 2215f7e] Auto update at 2025-07-29 02:38:15
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e4d6037..2215f7e  main -> main
+[main ecedef2] Auto update at 2025-07-29 02:38:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2215f7e..ecedef2  main -> main
+[main f1ccc55] Auto update at 2025-07-29 02:40:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ecedef2..f1ccc55  main -> main
+[main 15f5b01] Auto update at 2025-07-29 02:40:48
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f1ccc55..15f5b01  main -> main
+[main 48fb3e3] Auto update at 2025-07-29 02:41:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   15f5b01..48fb3e3  main -> main
+[main 255d138] Auto update at 2025-07-29 02:43:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   48fb3e3..255d138  main -> main
+[main 26f15ec] Auto update at 2025-07-29 02:43:27
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   255d138..26f15ec  main -> main
+[main 29f684a] Auto update at 2025-07-29 02:45:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   26f15ec..29f684a  main -> main
+[main f99bd8b] Auto update at 2025-07-29 02:45:19
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   29f684a..f99bd8b  main -> main
+[main 549102b] Auto update at 2025-07-29 02:48:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f99bd8b..549102b  main -> main
+[main d3e51e0] Auto update at 2025-07-29 02:48:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   549102b..d3e51e0  main -> main
+[main a3e9900] Auto update at 2025-07-29 02:48:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d3e51e0..a3e9900  main -> main
+[main 652d502] Auto update at 2025-07-29 02:50:58
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a3e9900..652d502  main -> main
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 4289087] Auto update at 2025-07-29 02:51:01
+ 6 files changed, 33 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 4289087725085a3af2cae04cef896ef8dbd37491 but expected 652d502c881ab39985176d1e1bd271a9f16bc1c8)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+To https://github.com/shiroskhan11/Quotex-candle.git
+   652d502..4289087  main -> main
+[main 8bd6c1c] Auto update at 2025-07-29 02:53:58
+ 6 files changed, 24 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4289087..8bd6c1c  main -> main
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 8d83161] Auto update at 2025-07-29 02:54:03
+ 6 files changed, 33 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 8d83161c8f27b0c362a626f798f015dcd0490075 but expected 8bd6c1c34552b53c99976bd5bb9b22e79b7264e8)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8bd6c1c..8d83161  main -> main
+[main 70aad62] Auto update at 2025-07-29 02:56:58
+ 6 files changed, 24 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8d83161..70aad62  main -> main
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 90e9c6b] Auto update at 2025-07-29 02:57:03
+ 6 files changed, 19 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   70aad62..90e9c6b  main -> main
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 90e9c6b465d814d47e9b97e6bf4b209a09b48dc4 but expected 70aad62193606d55b8c0a4b26c1dcbe36582d0e2)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+[main 3155fde] Auto update at 2025-07-29 02:59:31
+ 6 files changed, 31 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   90e9c6b..3155fde  main -> main
+[main b644924] Auto update at 2025-07-29 02:59:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3155fde..b644924  main -> main
+[main 555d853] Auto update at 2025-07-29 03:00:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b644924..555d853  main -> main
+[main 63cf519] Auto update at 2025-07-29 03:01:18
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   555d853..63cf519  main -> main
+[main 976d09f] Auto update at 2025-07-29 03:03:06
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   63cf519..976d09f  main -> main
+[main 0a1cc47] Auto update at 2025-07-29 03:03:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   976d09f..0a1cc47  main -> main
+[main 6bf3dc1] Auto update at 2025-07-29 03:06:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0a1cc47..6bf3dc1  main -> main
+[main af0379e] Auto update at 2025-07-29 03:06:27
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6bf3dc1..af0379e  main -> main
+[main 53dd332] Auto update at 2025-07-29 03:06:29
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   af0379e..53dd332  main -> main
+[main 9fcb48f] Auto update at 2025-07-29 03:07:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   53dd332..9fcb48f  main -> main
+[main aedacb5] Auto update at 2025-07-29 03:08:34
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9fcb48f..aedacb5  main -> main
+[main 1c75be6] Auto update at 2025-07-29 03:10:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   aedacb5..1c75be6  main -> main
+[main ec8c353] Auto update at 2025-07-29 03:10:19
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1c75be6..ec8c353  main -> main
+[main 1b6db3d] Auto update at 2025-07-29 03:12:14
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ec8c353..1b6db3d  main -> main
+[main c7281bd] Auto update at 2025-07-29 03:12:17
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1b6db3d..c7281bd  main -> main
+[main 99d5d8a] Auto update at 2025-07-29 03:15:17
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c7281bd..99d5d8a  main -> main
+[main 8f08683] Auto update at 2025-07-29 03:15:20
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   99d5d8a..8f08683  main -> main
+[main 7d7e49a] Auto update at 2025-07-29 03:15:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8f08683..7d7e49a  main -> main
+[main d4b4ca6] Auto update at 2025-07-29 03:17:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7d7e49a..d4b4ca6  main -> main
+[main ea097f1] Auto update at 2025-07-29 03:17:48
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d4b4ca6..ea097f1  main -> main
+[main 8134eef] Auto update at 2025-07-29 03:18:19
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ea097f1..8134eef  main -> main
+[main 434ab3a] Auto update at 2025-07-29 03:20:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8134eef..434ab3a  main -> main
+[main 8d0b768] Auto update at 2025-07-29 03:20:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   434ab3a..8d0b768  main -> main
+[main 41dce78] Auto update at 2025-07-29 03:22:06
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8d0b768..41dce78  main -> main
+[main a249838] Auto update at 2025-07-29 03:22:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   41dce78..a249838  main -> main
+[main 8593bfa] Auto update at 2025-07-29 03:25:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a249838..8593bfa  main -> main
+[main 4e35c61] Auto update at 2025-07-29 03:25:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8593bfa..4e35c61  main -> main
+[main 9be3fb1] Auto update at 2025-07-29 03:25:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4e35c61..9be3fb1  main -> main
+[main 853664d] Auto update at 2025-07-29 03:28:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9be3fb1..853664d  main -> main
+[main 8f48213] Auto update at 2025-07-29 03:28:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   853664d..8f48213  main -> main
+[main e981d7f] Auto update at 2025-07-29 03:28:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8f48213..e981d7f  main -> main
+[main 6ab0212] Auto update at 2025-07-29 03:30:57
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e981d7f..6ab0212  main -> main
+[main 0fd41f2] Auto update at 2025-07-29 03:30:59
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+[main 0cb4254] Auto update at 2025-07-29 03:31:00
+ 6 files changed, 12 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6ab0212..0fd41f2  main -> main
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 0cb4254e26673ad74e65a0bc0cbf15ee0074e5ea but expected 6ab02120ec3e5e1066fbce0d05921caed3800341)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+[main 9c9ecd7] Auto update at 2025-07-29 03:33:12
+ 6 files changed, 17 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0cb4254..9c9ecd7  main -> main
+[main b637c14] Auto update at 2025-07-29 03:33:14
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9c9ecd7..b637c14  main -> main
+[main 503383b] Auto update at 2025-07-29 03:35:12
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b637c14..503383b  main -> main
+[main a37964e] Auto update at 2025-07-29 03:35:15
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   503383b..a37964e  main -> main
+[main 4bb6875] Auto update at 2025-07-29 03:37:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a37964e..4bb6875  main -> main
+[main bafa226] Auto update at 2025-07-29 03:37:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4bb6875..bafa226  main -> main
+[main 1c465de] Auto update at 2025-07-29 03:38:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   bafa226..1c465de  main -> main
+[main b3dc9e3] Auto update at 2025-07-29 03:39:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1c465de..b3dc9e3  main -> main
+[main fca465f] Auto update at 2025-07-29 03:42:17
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b3dc9e3..fca465f  main -> main
+[main 772a21e] Auto update at 2025-07-29 03:42:20
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fca465f..772a21e  main -> main
+[main 88ee72d] Auto update at 2025-07-29 03:42:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   772a21e..88ee72d  main -> main
+[main 84a5b9f] Auto update at 2025-07-29 03:44:27
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   88ee72d..84a5b9f  main -> main
+[main 6bfbee3] Auto update at 2025-07-29 03:44:31
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   84a5b9f..6bfbee3  main -> main
+[main 788482b] Auto update at 2025-07-29 03:46:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6bfbee3..788482b  main -> main
+[main 1c72f7c] Auto update at 2025-07-29 03:46:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   788482b..1c72f7c  main -> main
+[main 7bf08e1] Auto update at 2025-07-29 03:47:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1c72f7c..7bf08e1  main -> main
+[main 6908892] Auto update at 2025-07-29 03:49:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7bf08e1..6908892  main -> main
+[main 456bb8f] Auto update at 2025-07-29 03:49:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6908892..456bb8f  main -> main
+[main 4d7e210] Auto update at 2025-07-29 03:52:40
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   456bb8f..4d7e210  main -> main
+[main 2026465] Auto update at 2025-07-29 03:52:42
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4d7e210..2026465  main -> main
+[main 13f0d56] Auto update at 2025-07-29 03:52:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2026465..13f0d56  main -> main
+[main e9f77da] Auto update at 2025-07-29 03:54:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   13f0d56..e9f77da  main -> main
+[main 3c73566] Auto update at 2025-07-29 03:54:10
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e9f77da..3c73566  main -> main
+[main 9ab7abd] Auto update at 2025-07-29 03:56:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3c73566..9ab7abd  main -> main
+[main 61526be] Auto update at 2025-07-29 03:56:58
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9ab7abd..61526be  main -> main
+[main bf4c79e] Auto update at 2025-07-29 03:57:02
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   61526be..bf4c79e  main -> main
+[main f86d057] Auto update at 2025-07-29 03:59:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   bf4c79e..f86d057  main -> main
+[main 477ab89] Auto update at 2025-07-29 03:59:52
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f86d057..477ab89  main -> main
+[main c9acd6a] Auto update at 2025-07-29 04:00:15
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   477ab89..c9acd6a  main -> main
+[main bf91291] Auto update at 2025-07-29 04:02:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c9acd6a..bf91291  main -> main
+[main cfa435d] Auto update at 2025-07-29 04:02:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   bf91291..cfa435d  main -> main
+[main 1a50691] Auto update at 2025-07-29 04:03:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   cfa435d..1a50691  main -> main
+[main af9941d] Auto update at 2025-07-29 04:05:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1a50691..af9941d  main -> main
+[main db174a7] Auto update at 2025-07-29 04:05:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   af9941d..db174a7  main -> main
+[main 04689ad] Auto update at 2025-07-29 04:06:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   db174a7..04689ad  main -> main
+[main bc43a3d] Auto update at 2025-07-29 04:09:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   04689ad..bc43a3d  main -> main
+[main 2735826] Auto update at 2025-07-29 04:09:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   bc43a3d..2735826  main -> main
+[main 82f0de5] Auto update at 2025-07-29 04:09:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2735826..82f0de5  main -> main
+[main fb87d94] Auto update at 2025-07-29 04:14:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   82f0de5..fb87d94  main -> main
+[main 993def5] Auto update at 2025-07-29 04:14:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fb87d94..993def5  main -> main
+[main 2a850eb] Auto update at 2025-07-29 04:14:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   993def5..2a850eb  main -> main
+[main 503e4b8] Auto update at 2025-07-29 04:14:58
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2a850eb..503e4b8  main -> main
+[main e8967d6] Auto update at 2025-07-29 04:15:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+[main b0029ec] Auto update at 2025-07-29 04:15:01
+ 6 files changed, 12 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   503e4b8..e8967d6  main -> main
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at e8967d68474bc5e26ba996f84e013b1697b6c754 but expected 503e4b8cbc3ed9daad3f67c0b51e4f8c0182d094)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+[main ab69440] Auto update at 2025-07-29 04:17:55
+ 6 files changed, 17 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e8967d6..ab69440  main -> main
+[main 9db2f7d] Auto update at 2025-07-29 04:17:58
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ab69440..9db2f7d  main -> main
+[main a35ae7f] Auto update at 2025-07-29 04:18:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9db2f7d..a35ae7f  main -> main
+[main da401c6] Auto update at 2025-07-29 04:20:25
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a35ae7f..da401c6  main -> main
+[main 0b6ae57] Auto update at 2025-07-29 04:20:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   da401c6..0b6ae57  main -> main
+[main 8035514] Auto update at 2025-07-29 04:21:52
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0b6ae57..8035514  main -> main
+[main da0b111] Auto update at 2025-07-29 04:22:10
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8035514..da0b111  main -> main
+[main 6c5d873] Auto update at 2025-07-29 04:24:39
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   da0b111..6c5d873  main -> main
+[main 5dd67e0] Auto update at 2025-07-29 04:24:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6c5d873..5dd67e0  main -> main
+[main 41acc01] Auto update at 2025-07-29 04:25:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5dd67e0..41acc01  main -> main
+[main 7a7d0a6] Auto update at 2025-07-29 04:26:42
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   41acc01..7a7d0a6  main -> main
+[main 388d719] Auto update at 2025-07-29 04:27:15
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7a7d0a6..388d719  main -> main
+[main 272502d] Auto update at 2025-07-29 04:29:20
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   388d719..272502d  main -> main
+[main 41bfcbb] Auto update at 2025-07-29 04:29:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   272502d..41bfcbb  main -> main
+[main 18b906d] Auto update at 2025-07-29 04:30:59
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+[main 31bf229] Auto update at 2025-07-29 04:31:01
+ 6 files changed, 12 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   41bfcbb..18b906d  main -> main
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 31bf229be86975e50fce7d20d34e9ccca33bf59d but expected 41bfcbb74f8e3e6c565e1a301bc26424baf3db13)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+[main e245133] Auto update at 2025-07-29 04:34:21
+ 6 files changed, 17 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   31bf229..e245133  main -> main
+[main c23693a] Auto update at 2025-07-29 04:34:25
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e245133..c23693a  main -> main
+[main 6fb447c] Auto update at 2025-07-29 04:34:27
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c23693a..6fb447c  main -> main
+[main 175ac4c] Auto update at 2025-07-29 04:36:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6fb447c..175ac4c  main -> main
+[main e4a26ed] Auto update at 2025-07-29 04:36:18
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   175ac4c..e4a26ed  main -> main
+[main f84a780] Auto update at 2025-07-29 04:38:21
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e4a26ed..f84a780  main -> main
+[main feadf47] Auto update at 2025-07-29 04:38:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f84a780..feadf47  main -> main
+[main 2cb2b8b] Auto update at 2025-07-29 04:40:20
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   feadf47..2cb2b8b  main -> main
+[main 74182b8] Auto update at 2025-07-29 04:40:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2cb2b8b..74182b8  main -> main
+[main f1e2c1c] Auto update at 2025-07-29 04:42:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   74182b8..f1e2c1c  main -> main
+[main 1aae982] Auto update at 2025-07-29 04:42:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f1e2c1c..1aae982  main -> main
+[main f05f8b1] Auto update at 2025-07-29 04:44:20
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1aae982..f05f8b1  main -> main
+[main ddf3478] Auto update at 2025-07-29 04:44:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f05f8b1..ddf3478  main -> main
+[main 5364e73] Auto update at 2025-07-29 04:46:06
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ddf3478..5364e73  main -> main
+[main 8378b9a] Auto update at 2025-07-29 04:46:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5364e73..8378b9a  main -> main
+[main 34a16d4] Auto update at 2025-07-29 04:49:34
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8378b9a..34a16d4  main -> main
+[main 5c66b6b] Auto update at 2025-07-29 04:49:37
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   34a16d4..5c66b6b  main -> main
+[main 8c88a54] Auto update at 2025-07-29 04:49:39
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5c66b6b..8c88a54  main -> main
+[main d561416] Auto update at 2025-07-29 04:50:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8c88a54..d561416  main -> main
+[main cf6273a] Auto update at 2025-07-29 04:51:34
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d561416..cf6273a  main -> main
+[main 16f76a2] Auto update at 2025-07-29 04:52:27
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   cf6273a..16f76a2  main -> main
+[main f29493e] Auto update at 2025-07-29 04:54:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   16f76a2..f29493e  main -> main
+[main 1349b09] Auto update at 2025-07-29 04:54:12
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f29493e..1349b09  main -> main
+[main 0fe8081] Auto update at 2025-07-29 04:56:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1349b09..0fe8081  main -> main
+[main 19fe42d] Auto update at 2025-07-29 04:56:56
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0fe8081..19fe42d  main -> main
+[main 255b03f] Auto update at 2025-07-29 04:57:04
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   19fe42d..255b03f  main -> main
+[main 994b424] Auto update at 2025-07-29 04:59:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   255b03f..994b424  main -> main
+[main 63b724e] Auto update at 2025-07-29 04:59:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   994b424..63b724e  main -> main
+[main 49dcac8] Auto update at 2025-07-29 05:00:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   63b724e..49dcac8  main -> main
+[main 6ef3277] Auto update at 2025-07-29 05:02:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   49dcac8..6ef3277  main -> main
+[main d5dfb9a] Auto update at 2025-07-29 05:02:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6ef3277..d5dfb9a  main -> main
+[main afad991] Auto update at 2025-07-29 05:03:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d5dfb9a..afad991  main -> main
+[main ae11850] Auto update at 2025-07-29 05:04:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   afad991..ae11850  main -> main
+[main 494cd2c] Auto update at 2025-07-29 05:06:36
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ae11850..494cd2c  main -> main
+[main 23bc2b4] Auto update at 2025-07-29 05:06:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   494cd2c..23bc2b4  main -> main
+[main 04a4f0f] Auto update at 2025-07-29 05:07:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   23bc2b4..04a4f0f  main -> main
+[main 741a7c0] Auto update at 2025-07-29 05:08:40
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   04a4f0f..741a7c0  main -> main
+[main 02f5fca] Auto update at 2025-07-29 05:09:48
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   741a7c0..02f5fca  main -> main
+[main 472b164] Auto update at 2025-07-29 05:10:14
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   02f5fca..472b164  main -> main
+[main 1ce844b] Auto update at 2025-07-29 05:12:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   472b164..1ce844b  main -> main
+[main a4a2e65] Auto update at 2025-07-29 05:12:40
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1ce844b..a4a2e65  main -> main
+[main cb44815] Auto update at 2025-07-29 05:13:29
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a4a2e65..cb44815  main -> main
+[main 777e3c6] Auto update at 2025-07-29 05:14:57
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   cb44815..777e3c6  main -> main
+[main 4552a0b] Auto update at 2025-07-29 05:15:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   777e3c6..4552a0b  main -> main
+[main fc094d3] Auto update at 2025-07-29 05:19:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4552a0b..fc094d3  main -> main
+[main bff5df0] Auto update at 2025-07-29 05:19:26
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fc094d3..bff5df0  main -> main
+[main eb0d792] Auto update at 2025-07-29 05:19:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   bff5df0..eb0d792  main -> main
+[main f26c71c] Auto update at 2025-07-29 05:19:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   eb0d792..f26c71c  main -> main
+[main 28875c0] Auto update at 2025-07-29 05:21:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f26c71c..28875c0  main -> main
+[main 58966ca] Auto update at 2025-07-29 05:21:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   28875c0..58966ca  main -> main
+[main c92f4a8] Auto update at 2025-07-29 05:22:52
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   58966ca..c92f4a8  main -> main
+[main cb1f631] Auto update at 2025-07-29 05:23:15
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c92f4a8..cb1f631  main -> main
+[main d1c4ecb] Auto update at 2025-07-29 05:25:52
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   cb1f631..d1c4ecb  main -> main
+[main a8c25e9] Auto update at 2025-07-29 05:25:57
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d1c4ecb..a8c25e9  main -> main
+[main 3b4ab31] Auto update at 2025-07-29 05:26:02
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a8c25e9..3b4ab31  main -> main
+[main 6564d5b] Auto update at 2025-07-29 05:30:31
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3b4ab31..6564d5b  main -> main
+[main 495c6d7] Auto update at 2025-07-29 05:30:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6564d5b..495c6d7  main -> main
+[main 9e88a9a] Auto update at 2025-07-29 05:30:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   495c6d7..9e88a9a  main -> main
+[main 604c631] Auto update at 2025-07-29 05:30:37
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9e88a9a..604c631  main -> main
+[main 8597d65] Auto update at 2025-07-29 05:31:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   604c631..8597d65  main -> main
+[main 97110ef] Auto update at 2025-07-29 05:32:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8597d65..97110ef  main -> main
+[main 3d57c23] Auto update at 2025-07-29 05:33:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   97110ef..3d57c23  main -> main
+[main ed2bbd5] Auto update at 2025-07-29 05:36:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3d57c23..ed2bbd5  main -> main
+[main de2dea3] Auto update at 2025-07-29 05:36:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ed2bbd5..de2dea3  main -> main
+[main d423144] Auto update at 2025-07-29 05:36:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   de2dea3..d423144  main -> main
+[main d1c9d75] Auto update at 2025-07-29 05:37:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d423144..d1c9d75  main -> main
+[main f708ab8] Auto update at 2025-07-29 05:39:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d1c9d75..f708ab8  main -> main
+[main 12a9487] Auto update at 2025-07-29 05:39:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f708ab8..12a9487  main -> main
+[main 981d782] Auto update at 2025-07-29 05:40:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   12a9487..981d782  main -> main
+[main 73242a4] Auto update at 2025-07-29 05:41:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   981d782..73242a4  main -> main
+[main 24f8f79] Auto update at 2025-07-29 05:42:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   73242a4..24f8f79  main -> main
+[main 4524441] Auto update at 2025-07-29 05:44:45
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   24f8f79..4524441  main -> main
+[main 6991bdc] Auto update at 2025-07-29 05:44:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4524441..6991bdc  main -> main
+[main 650bfe8] Auto update at 2025-07-29 05:45:37
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6991bdc..650bfe8  main -> main
+[main 48e092e] Auto update at 2025-07-29 05:46:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   650bfe8..48e092e  main -> main
+[main 04e80e1] Auto update at 2025-07-29 05:47:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   48e092e..04e80e1  main -> main
+[main 410c743] Auto update at 2025-07-29 05:49:25
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   04e80e1..410c743  main -> main
+[main 588d765] Auto update at 2025-07-29 05:49:27
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   410c743..588d765  main -> main
+[main 456e1aa] Auto update at 2025-07-29 05:51:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   588d765..456e1aa  main -> main
+[main 26e7c5a] Auto update at 2025-07-29 05:51:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   456e1aa..26e7c5a  main -> main
+[main e6b00c9] Auto update at 2025-07-29 05:54:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   26e7c5a..e6b00c9  main -> main
+[main 33d6917] Auto update at 2025-07-29 05:54:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e6b00c9..33d6917  main -> main
+[main b18fca3] Auto update at 2025-07-29 05:54:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   33d6917..b18fca3  main -> main
+[main 2b739ec] Auto update at 2025-07-29 05:58:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b18fca3..2b739ec  main -> main
+[main 26f83d8] Auto update at 2025-07-29 05:58:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2b739ec..26f83d8  main -> main
+[main 7b4f5f1] Auto update at 2025-07-29 05:58:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   26f83d8..7b4f5f1  main -> main
+[main 725eb17] Auto update at 2025-07-29 05:58:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7b4f5f1..725eb17  main -> main
+[main 3a139b9] Auto update at 2025-07-29 06:00:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   725eb17..3a139b9  main -> main
+[main 3dc0887] Auto update at 2025-07-29 06:00:18
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3a139b9..3dc0887  main -> main
+[main 0303f13] Auto update at 2025-07-29 06:02:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3dc0887..0303f13  main -> main
+[main 66f50d1] Auto update at 2025-07-29 06:02:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0303f13..66f50d1  main -> main
+[main 8a51c42] Auto update at 2025-07-29 06:03:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   66f50d1..8a51c42  main -> main
+[main b026ffa] Auto update at 2025-07-29 06:04:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8a51c42..b026ffa  main -> main
+[main 10ad41e] Auto update at 2025-07-29 06:06:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b026ffa..10ad41e  main -> main
+[main 41ed0ea] Auto update at 2025-07-29 06:06:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   10ad41e..41ed0ea  main -> main
+[main fc4a7a9] Auto update at 2025-07-29 06:08:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   41ed0ea..fc4a7a9  main -> main
+[main 7e62386] Auto update at 2025-07-29 06:08:57
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fc4a7a9..7e62386  main -> main
+[main c067cd3] Auto update at 2025-07-29 06:09:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7e62386..c067cd3  main -> main
+[main 8a197b0] Auto update at 2025-07-29 06:11:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c067cd3..8a197b0  main -> main
+[main 3215527] Auto update at 2025-07-29 06:11:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8a197b0..3215527  main -> main
+[main 899cf65] Auto update at 2025-07-29 06:12:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3215527..899cf65  main -> main
+[main 1cceb1a] Auto update at 2025-07-29 06:13:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   899cf65..1cceb1a  main -> main
+[main e873d61] Auto update at 2025-07-29 06:15:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1cceb1a..e873d61  main -> main
+[main 0a5ef35] Auto update at 2025-07-29 06:15:58
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e873d61..0a5ef35  main -> main
+[main 93deb6e] Auto update at 2025-07-29 06:16:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0a5ef35..93deb6e  main -> main
+[main 84bba22] Auto update at 2025-07-29 06:19:12
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   93deb6e..84bba22  main -> main
+[main d2786d6] Auto update at 2025-07-29 06:19:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   84bba22..d2786d6  main -> main
+[main fdfc5d6] Auto update at 2025-07-29 06:19:18
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d2786d6..fdfc5d6  main -> main
+[main 821973f] Auto update at 2025-07-29 06:20:29
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fdfc5d6..821973f  main -> main
+[main 5ae4c9b] Auto update at 2025-07-29 06:22:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   821973f..5ae4c9b  main -> main
+[main 34e5369] Auto update at 2025-07-29 06:22:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5ae4c9b..34e5369  main -> main
+[main 25169a6] Auto update at 2025-07-29 06:24:42
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   34e5369..25169a6  main -> main
+[main 31c98c5] Auto update at 2025-07-29 06:24:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   25169a6..31c98c5  main -> main
+[main 9fffce8] Auto update at 2025-07-29 06:25:58
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   31c98c5..9fffce8  main -> main
+[main d674640] Auto update at 2025-07-29 06:26:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9fffce8..d674640  main -> main
+[main d0a65b2] Auto update at 2025-07-29 06:28:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d674640..d0a65b2  main -> main
+[main 8fbe206] Auto update at 2025-07-29 06:28:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d0a65b2..8fbe206  main -> main
+[main c35adbd] Auto update at 2025-07-29 06:29:06
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8fbe206..c35adbd  main -> main
+[main 8266889] Auto update at 2025-07-29 06:31:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c35adbd..8266889  main -> main
+[main a0cfe8d] Auto update at 2025-07-29 06:31:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8266889..a0cfe8d  main -> main
+[main fa060a6] Auto update at 2025-07-29 06:32:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a0cfe8d..fa060a6  main -> main
+[main d1ce346] Auto update at 2025-07-29 06:33:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fa060a6..d1ce346  main -> main
+[main 3c29467] Auto update at 2025-07-29 06:35:39
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d1ce346..3c29467  main -> main
+[main e5021d5] Auto update at 2025-07-29 06:35:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3c29467..e5021d5  main -> main
+[main c3303ef] Auto update at 2025-07-29 06:36:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e5021d5..c3303ef  main -> main
+[main 46ebc98] Auto update at 2025-07-29 06:38:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c3303ef..46ebc98  main -> main
+[main 2a7dbf2] Auto update at 2025-07-29 06:38:26
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   46ebc98..2a7dbf2  main -> main
+[main d9e4f80] Auto update at 2025-07-29 06:40:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2a7dbf2..d9e4f80  main -> main
+[main 71c9b0f] Auto update at 2025-07-29 06:40:26
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d9e4f80..71c9b0f  main -> main
+[main 4976a07] Auto update at 2025-07-29 06:42:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   71c9b0f..4976a07  main -> main
+[main f1efb54] Auto update at 2025-07-29 06:42:10
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4976a07..f1efb54  main -> main
+[main 78bfd7a] Auto update at 2025-07-29 06:44:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f1efb54..78bfd7a  main -> main
+[main 6ad4f6e] Auto update at 2025-07-29 06:44:37
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   78bfd7a..6ad4f6e  main -> main
+[main 2991f67] Auto update at 2025-07-29 06:45:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6ad4f6e..2991f67  main -> main
+[main fc221bd] Auto update at 2025-07-29 06:46:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2991f67..fc221bd  main -> main
+[main 228fa66] Auto update at 2025-07-29 06:48:52
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fc221bd..228fa66  main -> main
+[main d3a59dd] Auto update at 2025-07-29 06:48:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   228fa66..d3a59dd  main -> main
+[main e8384da] Auto update at 2025-07-29 06:49:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d3a59dd..e8384da  main -> main
+[main f3096fa] Auto update at 2025-07-29 06:52:45
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e8384da..f3096fa  main -> main
+[main 2fa6584] Auto update at 2025-07-29 06:52:47
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f3096fa..2fa6584  main -> main
+[main 3eea798] Auto update at 2025-07-29 06:52:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2fa6584..3eea798  main -> main
+[main 34de733] Auto update at 2025-07-29 06:53:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3eea798..34de733  main -> main
+[main 21a8c61] Auto update at 2025-07-29 06:56:19
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   34de733..21a8c61  main -> main
+[main 42abe2d] Auto update at 2025-07-29 06:56:21
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   21a8c61..42abe2d  main -> main
+[main 9ef0d33] Auto update at 2025-07-29 06:56:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   42abe2d..9ef0d33  main -> main
+[main ddbabe5] Auto update at 2025-07-29 06:59:39
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9ef0d33..ddbabe5  main -> main
+[main 09353c9] Auto update at 2025-07-29 06:59:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ddbabe5..09353c9  main -> main
+[main c77ab33] Auto update at 2025-07-29 06:59:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   09353c9..c77ab33  main -> main
+[main f63c0f0] Auto update at 2025-07-29 07:01:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c77ab33..f63c0f0  main -> main
+[main 1bf39d5] Auto update at 2025-07-29 07:01:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f63c0f0..1bf39d5  main -> main
+[main 65e5545] Auto update at 2025-07-29 07:02:02
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1bf39d5..65e5545  main -> main
+[main 6f9492e] Auto update at 2025-07-29 07:05:40
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   65e5545..6f9492e  main -> main
+[main b37893d] Auto update at 2025-07-29 07:05:42
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6f9492e..b37893d  main -> main
+[main 24453a4] Auto update at 2025-07-29 07:05:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b37893d..24453a4  main -> main
+[main a7f3cba] Auto update at 2025-07-29 07:06:36
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   24453a4..a7f3cba  main -> main
+[main b052776] Auto update at 2025-07-29 07:07:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a7f3cba..b052776  main -> main
+[main 477e7bf] Auto update at 2025-07-29 07:08:19
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b052776..477e7bf  main -> main
+[main e587a1b] Auto update at 2025-07-29 07:10:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   477e7bf..e587a1b  main -> main
+[main 3417341] Auto update at 2025-07-29 07:10:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e587a1b..3417341  main -> main
+[main cc0c3e1] Auto update at 2025-07-29 07:12:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3417341..cc0c3e1  main -> main
+[main 06f19bb] Auto update at 2025-07-29 07:12:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   cc0c3e1..06f19bb  main -> main
+[main 6e2c642] Auto update at 2025-07-29 07:14:59
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   06f19bb..6e2c642  main -> main
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[main 2d4c176] Auto update at 2025-07-29 07:15:02
+ 6 files changed, 31 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6e2c642..2d4c176  main -> main
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 2d4c1767ac0a9fd59de79839083802a09ee88caa but expected 6e2c642152f0c4cd163aac6f6dc60c4064c83a21)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+[main edf5828] Auto update at 2025-07-29 07:17:41
+ 6 files changed, 22 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2d4c176..edf5828  main -> main
+[main 70c29ea] Auto update at 2025-07-29 07:17:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   edf5828..70c29ea  main -> main
+[main 0bad591] Auto update at 2025-07-29 07:18:21
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   70c29ea..0bad591  main -> main
+[main d5a009e] Auto update at 2025-07-29 07:20:04
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0bad591..d5a009e  main -> main
+[main dab68d1] Auto update at 2025-07-29 07:20:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d5a009e..dab68d1  main -> main
+[main 497e073] Auto update at 2025-07-29 07:22:18
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   dab68d1..497e073  main -> main
+[main b521bf3] Auto update at 2025-07-29 07:22:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   497e073..b521bf3  main -> main
+[main afbd89f] Auto update at 2025-07-29 07:23:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b521bf3..afbd89f  main -> main
+[main 51460af] Auto update at 2025-07-29 07:25:47
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   afbd89f..51460af  main -> main
+[main 4721cab] Auto update at 2025-07-29 07:25:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   51460af..4721cab  main -> main
+[main 3ab9511] Auto update at 2025-07-29 07:26:17
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4721cab..3ab9511  main -> main
+[main b776adc] Auto update at 2025-07-29 07:28:47
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3ab9511..b776adc  main -> main
+[main 923e162] Auto update at 2025-07-29 07:28:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b776adc..923e162  main -> main
+[main 7a289d3] Auto update at 2025-07-29 07:30:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   923e162..7a289d3  main -> main
+[main 13de72d] Auto update at 2025-07-29 07:30:04
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7a289d3..13de72d  main -> main
+[main 6faa305] Auto update at 2025-07-29 07:32:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   13de72d..6faa305  main -> main
+[main f0decdd] Auto update at 2025-07-29 07:32:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6faa305..f0decdd  main -> main
+[main 25e4195] Auto update at 2025-07-29 07:33:46
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f0decdd..25e4195  main -> main
+[main 5804540] Auto update at 2025-07-29 07:34:31
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   25e4195..5804540  main -> main
+[main 17d7854] Auto update at 2025-07-29 07:36:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5804540..17d7854  main -> main
+[main 0cd4cd0] Auto update at 2025-07-29 07:36:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   17d7854..0cd4cd0  main -> main
+[main 3f87555] Auto update at 2025-07-29 07:38:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0cd4cd0..3f87555  main -> main
+[main ca7a103] Auto update at 2025-07-29 07:38:56
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3f87555..ca7a103  main -> main
+[main 954fb57] Auto update at 2025-07-29 07:39:06
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ca7a103..954fb57  main -> main
+[main 2b80b77] Auto update at 2025-07-29 07:41:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   954fb57..2b80b77  main -> main
+[main f2549c6] Auto update at 2025-07-29 07:41:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2b80b77..f2549c6  main -> main
+[main 487fa08] Auto update at 2025-07-29 07:43:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f2549c6..487fa08  main -> main
+[main 6ead2ec] Auto update at 2025-07-29 07:43:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   487fa08..6ead2ec  main -> main
+[main 535f6fa] Auto update at 2025-07-29 07:45:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6ead2ec..535f6fa  main -> main
+[main 3890487] Auto update at 2025-07-29 07:45:40
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   535f6fa..3890487  main -> main
+[main 1c9e278] Auto update at 2025-07-29 07:46:47
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3890487..1c9e278  main -> main
+[main e33c894] Auto update at 2025-07-29 07:47:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1c9e278..e33c894  main -> main
+[main 30e10b8] Auto update at 2025-07-29 07:49:14
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   e33c894..30e10b8  main -> main
+[main 1c14295] Auto update at 2025-07-29 07:49:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   30e10b8..1c14295  main -> main
+[main 1f3a230] Auto update at 2025-07-29 07:52:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1c14295..1f3a230  main -> main
+[main ff5a8e6] Auto update at 2025-07-29 07:52:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1f3a230..ff5a8e6  main -> main
+[main 4f21450] Auto update at 2025-07-29 07:52:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ff5a8e6..4f21450  main -> main
+[main dfa3ba2] Auto update at 2025-07-29 07:54:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4f21450..dfa3ba2  main -> main
+[main 90d1c81] Auto update at 2025-07-29 07:54:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   dfa3ba2..90d1c81  main -> main
+[main 9f97c02] Auto update at 2025-07-29 07:58:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   90d1c81..9f97c02  main -> main
+[main d24fd82] Auto update at 2025-07-29 07:58:40
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9f97c02..d24fd82  main -> main
+[main 2e2b793] Auto update at 2025-07-29 07:58:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d24fd82..2e2b793  main -> main
+[main 3d98d8e] Auto update at 2025-07-29 07:58:45
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2e2b793..3d98d8e  main -> main
+[main 7164b33] Auto update at 2025-07-29 07:59:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3d98d8e..7164b33  main -> main
+[main c0932ab] Auto update at 2025-07-29 08:00:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7164b33..c0932ab  main -> main
+[main 7ec09b9] Auto update at 2025-07-29 08:01:08
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c0932ab..7ec09b9  main -> main
+[main 50e708d] Auto update at 2025-07-29 08:05:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7ec09b9..50e708d  main -> main
+[main f17d9cd] Auto update at 2025-07-29 08:05:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   50e708d..f17d9cd  main -> main
+[main 13c7911] Auto update at 2025-07-29 08:05:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f17d9cd..13c7911  main -> main
+[main 1a147ec] Auto update at 2025-07-29 08:05:16
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   13c7911..1a147ec  main -> main
+[main b9f355c] Auto update at 2025-07-29 08:07:48
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1a147ec..b9f355c  main -> main
+[main 12e26fe] Auto update at 2025-07-29 08:07:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b9f355c..12e26fe  main -> main
+[main d22e5ef] Auto update at 2025-07-29 08:08:57
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   12e26fe..d22e5ef  main -> main
+[main 69544d2] Auto update at 2025-07-29 08:09:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d22e5ef..69544d2  main -> main
+[main 9adc2ca] Auto update at 2025-07-29 08:12:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   69544d2..9adc2ca  main -> main
+[main 6bf9d53] Auto update at 2025-07-29 08:12:37
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9adc2ca..6bf9d53  main -> main
+[main 7844c84] Auto update at 2025-07-29 08:12:39
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6bf9d53..7844c84  main -> main
+[main 0fe194a] Auto update at 2025-07-29 08:14:03
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7844c84..0fe194a  main -> main
+[main b1beea5] Auto update at 2025-07-29 08:14:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0fe194a..b1beea5  main -> main
+[main 3100723] Auto update at 2025-07-29 08:18:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b1beea5..3100723  main -> main
+[main 8b32e72] Auto update at 2025-07-29 08:18:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3100723..8b32e72  main -> main
+[main cc2ed25] Auto update at 2025-07-29 08:18:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8b32e72..cc2ed25  main -> main
+[main 4cde5f9] Auto update at 2025-07-29 08:18:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   cc2ed25..4cde5f9  main -> main
+[main b81ff5c] Auto update at 2025-07-29 08:20:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4cde5f9..b81ff5c  main -> main
+[main 5f4efba] Auto update at 2025-07-29 08:20:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b81ff5c..5f4efba  main -> main
+[main 39a28bc] Auto update at 2025-07-29 08:21:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5f4efba..39a28bc  main -> main
+[main 922e7c3] Auto update at 2025-07-29 08:23:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   39a28bc..922e7c3  main -> main
+[main 818a194] Auto update at 2025-07-29 08:23:44
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   922e7c3..818a194  main -> main
+[main c27fcbb] Auto update at 2025-07-29 08:24:31
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   818a194..c27fcbb  main -> main
+[main ddfe3ae] Auto update at 2025-07-29 08:25:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c27fcbb..ddfe3ae  main -> main
+[main fc231c8] Auto update at 2025-07-29 08:26:05
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   ddfe3ae..fc231c8  main -> main
+[main cbc677a] Auto update at 2025-07-29 08:28:58
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fc231c8..cbc677a  main -> main
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+[main 0bd8be0] Auto update at 2025-07-29 08:29:01
+ 6 files changed, 31 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   cbc677a..0bd8be0  main -> main
+To https://github.com/shiroskhan11/Quotex-candle.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 0bd8be094dcc3453c79e178377037d821ccf559c but expected cbc677a3f97b7a02d3cffebdea75e622731bd5e7)
+error: failed to push some refs to 'https://github.com/shiroskhan11/Quotex-candle.git'
+[main 67c1c26] Auto update at 2025-07-29 08:32:39
+ 6 files changed, 22 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0bd8be0..67c1c26  main -> main
+[main 44d33c3] Auto update at 2025-07-29 08:32:42
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   67c1c26..44d33c3  main -> main
+[main 81bde30] Auto update at 2025-07-29 08:32:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   44d33c3..81bde30  main -> main
+[main 9b85657] Auto update at 2025-07-29 08:33:45
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   81bde30..9b85657  main -> main
+[main b3033b5] Auto update at 2025-07-29 08:34:41
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9b85657..b3033b5  main -> main
+[main 70fd927] Auto update at 2025-07-29 08:35:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b3033b5..70fd927  main -> main
+[main 64012e4] Auto update at 2025-07-29 08:38:49
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   70fd927..64012e4  main -> main
+[main 7105724] Auto update at 2025-07-29 08:38:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   64012e4..7105724  main -> main
+[main 1333e44] Auto update at 2025-07-29 08:38:53
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7105724..1333e44  main -> main
+[main c47c16c] Auto update at 2025-07-29 08:39:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   1333e44..c47c16c  main -> main
+[main b92254d] Auto update at 2025-07-29 08:41:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c47c16c..b92254d  main -> main
+[main d567209] Auto update at 2025-07-29 08:41:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b92254d..d567209  main -> main
+[main 4f27abb] Auto update at 2025-07-29 08:42:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d567209..4f27abb  main -> main
+[main edcc2b8] Auto update at 2025-07-29 08:44:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4f27abb..edcc2b8  main -> main
+[main 6af96f7] Auto update at 2025-07-29 08:44:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   edcc2b8..6af96f7  main -> main
+[main 01d4e17] Auto update at 2025-07-29 08:45:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6af96f7..01d4e17  main -> main
+[main 7e16743] Auto update at 2025-07-29 08:46:21
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   01d4e17..7e16743  main -> main
+[main d3b1ecd] Auto update at 2025-07-29 08:48:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7e16743..d3b1ecd  main -> main
+[main 6f55483] Auto update at 2025-07-29 08:48:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d3b1ecd..6f55483  main -> main
+[main f003c0e] Auto update at 2025-07-29 08:50:06
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6f55483..f003c0e  main -> main
+[main 0349d89] Auto update at 2025-07-29 08:50:10
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f003c0e..0349d89  main -> main
+[main 3af2a3c] Auto update at 2025-07-29 08:52:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0349d89..3af2a3c  main -> main
+[main 03e689a] Auto update at 2025-07-29 08:52:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3af2a3c..03e689a  main -> main
+[main 211e916] Auto update at 2025-07-29 08:53:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   03e689a..211e916  main -> main
+[main 81f59ff] Auto update at 2025-07-29 08:54:20
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   211e916..81f59ff  main -> main
+[main 3393170] Auto update at 2025-07-29 08:56:26
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   81f59ff..3393170  main -> main
+[main 3aa16a6] Auto update at 2025-07-29 08:56:28
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3393170..3aa16a6  main -> main
+[main fcb6e9d] Auto update at 2025-07-29 08:57:59
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+[main b024593] Auto update at 2025-07-29 08:58:00
+ 6 files changed, 12 insertions(+), 5 deletions(-)
+Everything up-to-date
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3aa16a6..fcb6e9d  main -> main
+[main 9330f44] Auto update at 2025-07-29 09:01:41
+ 6 files changed, 15 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b024593..9330f44  main -> main
+[main 413d043] Auto update at 2025-07-29 09:01:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9330f44..413d043  main -> main
+[main 96c9d34] Auto update at 2025-07-29 09:01:45
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   413d043..96c9d34  main -> main
+[main 88090f2] Auto update at 2025-07-29 09:02:42
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   96c9d34..88090f2  main -> main
+[main 8afe54a] Auto update at 2025-07-29 09:03:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   88090f2..8afe54a  main -> main
+[main 2055d45] Auto update at 2025-07-29 09:05:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8afe54a..2055d45  main -> main
+[main 5028ebf] Auto update at 2025-07-29 09:05:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2055d45..5028ebf  main -> main
+[main 7b459ca] Auto update at 2025-07-29 09:08:17
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5028ebf..7b459ca  main -> main
+[main f90d50a] Auto update at 2025-07-29 09:08:21
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7b459ca..f90d50a  main -> main
+[main 9e5c2a1] Auto update at 2025-07-29 09:08:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f90d50a..9e5c2a1  main -> main
+[main 8af018f] Auto update at 2025-07-29 09:10:30
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   9e5c2a1..8af018f  main -> main
+[main b6bd54e] Auto update at 2025-07-29 09:10:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   8af018f..b6bd54e  main -> main
+[main 2522d4a] Auto update at 2025-07-29 09:11:50
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b6bd54e..2522d4a  main -> main
+[main 60b2714] Auto update at 2025-07-29 09:12:21
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   2522d4a..60b2714  main -> main
+[main fd02752] Auto update at 2025-07-29 09:14:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   60b2714..fd02752  main -> main
+[main 3d77dde] Auto update at 2025-07-29 09:14:34
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   fd02752..3d77dde  main -> main
+[main dd384e1] Auto update at 2025-07-29 09:16:22
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3d77dde..dd384e1  main -> main
+[main 60a6156] Auto update at 2025-07-29 09:16:24
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   dd384e1..60a6156  main -> main
+[main f1e4291] Auto update at 2025-07-29 09:19:01
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   60a6156..f1e4291  main -> main
+[main 6ba7049] Auto update at 2025-07-29 09:19:04
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f1e4291..6ba7049  main -> main
+[main a620c21] Auto update at 2025-07-29 09:19:06
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6ba7049..a620c21  main -> main
+[main a022a37] Auto update at 2025-07-29 09:22:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a620c21..a022a37  main -> main
+[main f426e03] Auto update at 2025-07-29 09:22:13
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a022a37..f426e03  main -> main
+[main 3b9b9bb] Auto update at 2025-07-29 09:22:14
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f426e03..3b9b9bb  main -> main
+[main 6d6c6a5] Auto update at 2025-07-29 09:23:35
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   3b9b9bb..6d6c6a5  main -> main
+[main c55390c] Auto update at 2025-07-29 09:24:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   6d6c6a5..c55390c  main -> main
+[main 93c4802] Auto update at 2025-07-29 09:26:21
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   c55390c..93c4802  main -> main
+[main b16e91c] Auto update at 2025-07-29 09:26:23
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   93c4802..b16e91c  main -> main
+[main f385d3c] Auto update at 2025-07-29 09:28:51
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b16e91c..f385d3c  main -> main
+[main d41f399] Auto update at 2025-07-29 09:28:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   f385d3c..d41f399  main -> main
+[main 5866996] Auto update at 2025-07-29 09:29:10
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d41f399..5866996  main -> main
+[main 0e2fc26] Auto update at 2025-07-29 09:32:07
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5866996..0e2fc26  main -> main
+[main adedb02] Auto update at 2025-07-29 09:32:09
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0e2fc26..adedb02  main -> main
+[main b9f6add] Auto update at 2025-07-29 09:32:11
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   adedb02..b9f6add  main -> main
+[main 14abddd] Auto update at 2025-07-29 09:35:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b9f6add..14abddd  main -> main
+[main a195be5] Auto update at 2025-07-29 09:35:02
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   14abddd..a195be5  main -> main
+[main 56cef5e] Auto update at 2025-07-29 09:35:04
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a195be5..56cef5e  main -> main
+[main 4feecd0] Auto update at 2025-07-29 09:38:32
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   56cef5e..4feecd0  main -> main
+[main 79ff2fe] Auto update at 2025-07-29 09:38:36
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   4feecd0..79ff2fe  main -> main
+[main 0ac07cc] Auto update at 2025-07-29 09:38:38
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   79ff2fe..0ac07cc  main -> main
+[main a9c6c7c] Auto update at 2025-07-29 09:39:43
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   0ac07cc..a9c6c7c  main -> main
+[main d04ac94] Auto update at 2025-07-29 09:40:54
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a9c6c7c..d04ac94  main -> main
+[main d304d91] Auto update at 2025-07-29 09:41:36
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d04ac94..d304d91  main -> main
+[main a4496e7] Auto update at 2025-07-29 09:42:33
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   d304d91..a4496e7  main -> main
+[main b97ff47] Auto update at 2025-07-29 09:43:52
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   a4496e7..b97ff47  main -> main
+[main 90b6c61] Auto update at 2025-07-29 09:44:17
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b97ff47..90b6c61  main -> main
+[main b0c2eeb] Auto update at 2025-07-29 09:45:55
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   90b6c61..b0c2eeb  main -> main
+[main 7785e95] Auto update at 2025-07-29 09:46:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   b0c2eeb..7785e95  main -> main
+[main 30d8307] Auto update at 2025-07-29 09:47:04
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   7785e95..30d8307  main -> main
