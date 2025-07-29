@@ -1759,3 +1759,14 @@ To https://github.com/shiroskhan11/Quotex-candle.git
  6 files changed, 14 insertions(+), 5 deletions(-)
 To https://github.com/shiroskhan11/Quotex-candle.git
    cc0c3e1..06f19bb  main -> main
+[main 6e2c642] Auto update at 2025-07-29 07:14:59
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   06f19bb..6e2c642  main -> main
+fatal: Unable to create '/data/data/com.termux/files/home/Quotex-candle/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
