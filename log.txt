@@ -1858,3 +1858,7 @@ To https://github.com/shiroskhan11/Quotex-candle.git
  6 files changed, 14 insertions(+), 5 deletions(-)
 To https://github.com/shiroskhan11/Quotex-candle.git
    25e4195..5804540  main -> main
+[main 17d7854] Auto update at 2025-07-29 07:36:00
+ 6 files changed, 14 insertions(+), 5 deletions(-)
+To https://github.com/shiroskhan11/Quotex-candle.git
+   5804540..17d7854  main -> main
